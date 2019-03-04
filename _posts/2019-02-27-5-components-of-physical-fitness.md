@@ -14,7 +14,7 @@ post_date: 2019-02-27 03:49:38
 <!-- /wp:paragraph -->
 
 <!-- wp:list -->
-<ul><li>The Cooper Run is used to test cardiovascular endurance.  To find out more about how to properly perform this test, read more <a href="https://www.verywellfit.com/fitness-test-for-endurance-12-minute-run-3120264">here.</a> </li><li>The push-up test is most often used to test muscular strength. Find out how to properly perform this <a href="https://www.verywellfit.com/push-up-test-for-upper-body-strength-and-endurance-3120272">test.</a></li></ul>
+<ul><li>The Cooper Run is used to test cardiovascular endurance.  To find out more about how to properly perform this test, read more <a href="https://www.verywellfit.com/fitness-test-for-endurance-12-minute-run-3120264">here.</a> </li><li>The push-up test is most often used to test muscular strength. Find out how to properly perform this <a href="https://www.verywellfit.com/push-up-test-for-upper-body-strength-and-endurance-3120272">test.</a></li><li>The sit-up test is most often used to test muscular endurance. </li><li> The sit and reach test is most often used to test flexibility. </li><li>Using a BIA Scale is a way to measure fat percentages vs. muscle percentages within the body.</li></ul>
 <!-- /wp:list -->
 
 <!-- wp:paragraph -->
